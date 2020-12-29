@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236882606423",
+    "project_id": "pythonintegration-3818d",
+    "storage_bucket": "pythonintegration-3818d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236882606423:android:785e3fe16262072901a612",
+        "android_client_info": {
+          "package_name": "com.example.pythonintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236882606423-fpsq3e7o0gdnivcrntd2dmg2759uuuto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pythonintegration",
+            "certificate_hash": "716c2476c8abcd87a995136491242362ae3af69c"
+          }
+        },
+        {
+          "client_id": "236882606423-653sq0537f8pu7m9da99gbqljple29hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf36K_KH9TZIR4b4sWJjawpAWOuIdAJPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236882606423-653sq0537f8pu7m9da99gbqljple29hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
